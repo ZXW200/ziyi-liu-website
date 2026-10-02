@@ -1,0 +1,35 @@
+[
+  {
+    "file": "primordial-reflection-thumbnail.jpg",
+    "work": "Primordial Reflection",
+    "observedVideoTitle": "GraduateSchoolShowcase2024ZiyiLiu",
+    "sourceUrl": "https://www.youtube.com/watch?v=JTXU-ozrgb4",
+    "observedImageUrl": "https://i.ytimg.com/vi/JTXU-ozrgb4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgPigyMA8=&rs=AOn4CLCeG5YcvCn5IXOC6ABqUMRZF0Ifgg",
+    "width": 1280,
+    "height": 720,
+    "description": "Group interaction on a warm, dimly lit stage, with a central glasses-wearing person holding papers. This is the original video thumbnail, not an isolated performance pose.",
+    "recommendation": "Use for the linked work card if desired; weaker hero choice."
+  },
+  {
+    "file": "am-i-beauty-thumbnail.jpg",
+    "work": "Am I beauty?",
+    "observedVideoTitle": "Am I beauty？",
+    "sourceUrl": "https://www.youtube.com/watch?v=E1T3ArEeDKA",
+    "observedImageUrl": "https://i.ytimg.com/vi/E1T3ArEeDKA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gEygnMA8=&rs=AOn4CLBhwwSySFFCT6C3EKNX9mNYqOumng",
+    "width": 1280,
+    "height": 720,
+    "description": "Solo performer at the center of a saturated red-lit stage, surrounded by black side panels, one arm extended upward.",
+    "recommendation": "Strong performance work card; retains more detail in original color."
+  },
+  {
+    "file": "comfort-thumbnail.jpg",
+    "work": "Comfort",
+    "observedVideoTitle": "'comfort' direct version",
+    "sourceUrl": "https://www.youtube.com/watch?v=l6XSOm8L4QE",
+    "observedImageUrl": "https://i.ytimg.com/vi/l6XSOm8L4QE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gEygaMA8=&rs=AOn4CLDWJjyxDXoCEyrwAiAKn9Ck4uFkzQ",
+    "width": 1280,
+    "height": 720,
+    "description": "Solo performer behind a bed frame, lifting expansive red fabric against a deep black stage, with a narrow blue floor light.",
+    "recommendation": "Best hero candidate. Strong theatrical silhouette and dark negative space for white typography. Use CSS grayscale if the site requires black and white; retain original image file."
+  }
+]

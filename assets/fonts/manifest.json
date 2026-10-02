@@ -1,0 +1,86 @@
+{
+  "retrieved": "2026-10-02",
+  "stylesheetSource": "https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&family=Permanent+Marker&family=Ubuntu:wght@400;500;700&display=swap",
+  "fonts": [
+    {
+      "file": "comic-neue-400-latin.woff2",
+      "family": "Comic Neue",
+      "weight": 400,
+      "subset": "latin",
+      "source": "https://fonts.gstatic.com/s/comicneue/v9/4UaHrEJDsxBrF37olUeD96rp5w.woff2",
+      "bytes": 19572,
+      "sha256": "b7753f30f8bd4925cf48a2ffe936c52ff1f16fe441f8c0245acf046296ac590f"
+    },
+    {
+      "file": "comic-neue-700-latin.woff2",
+      "family": "Comic Neue",
+      "weight": 700,
+      "subset": "latin",
+      "source": "https://fonts.gstatic.com/s/comicneue/v9/4UaErEJDsxBrF37olUeD_xHM8pxULg.woff2",
+      "bytes": 19244,
+      "sha256": "13e9f12e3a0239dcf740e1c7ff37be1cce9b87ead0ad9bce838da1202ac9f91c"
+    },
+    {
+      "file": "permanent-marker-400-latin.woff2",
+      "family": "Permanent Marker",
+      "weight": 400,
+      "subset": "latin",
+      "source": "https://fonts.gstatic.com/s/permanentmarker/v16/Fh4uPib9Iyv2ucM6pGQMWimMp004La2Cfw.woff2",
+      "bytes": 29564,
+      "sha256": "4884fec2c73aa52a2461073c1b87d1ceb80f400520391b43f97ca7d3c39eeb24"
+    },
+    {
+      "file": "ubuntu-400-latin.woff2",
+      "family": "Ubuntu",
+      "weight": 400,
+      "subset": "latin",
+      "source": "https://fonts.gstatic.com/s/ubuntu/v21/4iCs6KVjbNBYlgoKfw72.woff2",
+      "bytes": 34924,
+      "sha256": "dabae363ac0ae6c3b2a137a32f7132b42520a8af252f87aa6c2198f2a79cf91c"
+    },
+    {
+      "file": "ubuntu-500-latin.woff2",
+      "family": "Ubuntu",
+      "weight": 500,
+      "subset": "latin",
+      "source": "https://fonts.gstatic.com/s/ubuntu/v21/4iCv6KVjbNBYlgoCjC3jsGyN.woff2",
+      "bytes": 30508,
+      "sha256": "428ec293d3b79af16abdca704f630c6c951744f572eddbc80e970bc9a94a33d2"
+    },
+    {
+      "file": "ubuntu-700-latin.woff2",
+      "family": "Ubuntu",
+      "weight": 700,
+      "subset": "latin",
+      "source": "https://fonts.gstatic.com/s/ubuntu/v21/4iCv6KVjbNBYlgoCxCvjsGyN.woff2",
+      "bytes": 29844,
+      "sha256": "3658a0717e347c1db8d80dd565584b9dc56769fbf87909c50a4a7740206ec5f7"
+    }
+  ],
+  "licenses": [
+    {
+      "source": "https://raw.githubusercontent.com/google/fonts/main/apache/permanentmarker/LICENSE.txt",
+      "file": "LICENSE-Permanent-Marker.txt",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/comicneue/OFL.txt",
+      "file": "OFL-Comic-Neue.txt",
+      "bytes": 4390,
+      "sha256": "7c38a22e5878e60fe423360553e63dd7be23d29f1f60336034935dbfc96e8320"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ufl/ubuntu/UFL.txt",
+      "file": "UFL-Ubuntu.txt",
+      "bytes": 4673,
+      "sha256": "2f0015108d68627bd788d313f529c21ff4da2c2c42a5e1f3883acc83480f9002"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ufl/ubuntu/COPYRIGHT.txt",
+      "file": "COPYRIGHT-Ubuntu.txt",
+      "bytes": 4673,
+      "sha256": "2f0015108d68627bd788d313f529c21ff4da2c2c42a5e1f3883acc83480f9002"
+    }
+  ]
+}
